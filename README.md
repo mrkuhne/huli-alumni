@@ -11,7 +11,7 @@ Email: mrkuhne@icloud.com
 {project-name}: {link-to-repo}
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
-LeetCode: https://leetcode.com/{username}
+LeetCode: https://leetcode.com/mrkuhne
 
 Hackerrank: https://www.hackerrank.com/dkmusicscore
 
